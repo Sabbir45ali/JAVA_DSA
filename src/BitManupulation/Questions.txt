@@ -1,0 +1,29 @@
+1. Count Set Bits:
+Write a function to count the number of set bits (1s) in an integer.
+
+2. Check if a Number is a Power of Two:
+Write a function to determine whether a given integer is a power of two.
+
+3. Swap Two Numbers:
+Write a function to swap two numbers without using a temporary variable, using bitwise operators.
+
+4. Find the Single Non-Repeating Element:
+Given an array where every element appears twice except for one, find that single element.
+
+5. Detect if Two Integers Have Opposite Signs:
+Write a function that returns true if two given integers have opposite signs, and false otherwise.
+
+6. Bitwise AND of Numbers Range:
+Given two integers left and right, write a function to find the bitwise AND of all numbers in the range [left, right].
+
+7. Reverse Bits:
+Reverse the bits of an unsigned integer.
+
+8. Count Different Bits in Two Numbers:
+Write a function that counts the number of bits needed to convert integer A to integer B.
+
+9. Generate Power Set:
+Given a set of integers, generate its power set using bit manipulation.
+
+10. Maximum XOR of Two Numbers in an Array:
+Given an array of integers, find the maximum XOR value of any two elements.
