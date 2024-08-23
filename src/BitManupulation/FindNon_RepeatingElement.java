@@ -1,6 +1,6 @@
 // Given an array where every element appears twice except for one, find that single element.
 //Solution : https://www.youtube.com/watch?v=C8o_CLCxohk
-
+package BitManupulation;
 import java.util.*;
 
 public class FindNon_RepeatingElement {
